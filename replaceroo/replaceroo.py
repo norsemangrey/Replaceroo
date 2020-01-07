@@ -1,4 +1,17 @@
-"""Text Search and Replace from List
+"""
+                     ,--.
+,--.--. ,---.  ,---. |  | ,--,--. ,---. ,---. ,--.--. ,---.  ,---.
+|  .--'| .-. :| .-. ||  |' ,-.  || .--'| .-. :|  .--'| .-. || .-. |
+|  |   \   --.| '-' '|  |\ '-'  |\ `--.\   --.|  |   ' '-' '' '-' '
+`--'    `----'|  |-' `--' `--`--' `---' `----'`--'    `---'  `---'
+              `--'
+
+#######################################################################################################################
+# Name        : replaceroo
+# Description : Text Search and Replace from List
+# Author      : Jan Magnus Røkke
+# Email       : jan.magnus.rokke@km.kongsberg.com / jan.magnus.roekke@gmail.com
+#######################################################################################################################
 
 This script allows the user to replace multiple strings in a plain text file from a list of strings that for instance
 can be copied from a spreadsheet column. Files can be dragged-and-dropped into the command line tool.
