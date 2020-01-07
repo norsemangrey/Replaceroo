@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
+/.idea/vcs.xml
 replaceroo/__pycache__/
 replaceroo/build/
 replaceroo/venv/
